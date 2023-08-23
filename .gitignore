@@ -1,1 +1,2 @@
-./**/.env
+# igone all .env files
+*.env
